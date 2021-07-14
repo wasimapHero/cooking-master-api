@@ -1,0 +1,118 @@
+#food_name {
+  border: 1px black solid;
+  margin: 0;
+  width: 400px;
+  height: 35px;
+}
+
+#container {
+  margin: 100px 220px;
+  width: 76%;
+  height: 1200px;
+  border-radius: 5px;
+  background-color: rgb(245, 207, 83);
+  box-shadow: 10px 10px 30px lightgray;
+  padding: 50px 200px;
+}
+#button {
+  background-color: rgba(17, 3, 98, 0.918);
+  border-radius: 3px;
+  height: 35px;
+  width: 100px;
+  padding: 5px;
+  font-weight: bold;
+  font-family: sans-serif;
+  color: white;
+}
+#button:hover {
+  border: url();
+}
+#list-img-size {
+  height: 185px;
+  width: 235px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  padding: 0;
+}
+
+#svg-check {
+  width: 4%;
+}
+#content-breakfast {
+  display: grid;
+  grid-template-columns: repeat(4, 237px);
+  grid-gap: 20px;
+
+  margin-top: 40px;
+}
+#food-name-list {
+  font-size: 16px;
+  padding: 20px 5px 6px 5px;
+  text-align: center;
+  align-items: center;
+  font-weight: bolder;
+  font-family: sans-serif;
+  color: black;
+}
+
+.btn-card {
+  border: 0px solid rgb(245, 207, 83);
+  background-color: rgb(245, 207, 83);
+}
+
+#whole-card-div {
+  border: 1px solid salmon;
+  height: 270px;
+  width: 237px;
+  border-radius: 8px;
+  background-color: whitesmoke;
+}
+
+#title h1 {
+  color: black;
+  font-size: 17px;
+  font-weight: bold;
+  font-family: "Ubuntu", sans-serif;
+  padding: 25px 10px 5px 10px;
+  align-items: center;
+}
+#whole-card-div-2 {
+  box-shadow: 5px 5px 50px rgb(245, 207, 83);
+  height: 975px;
+  width: 430px;
+  border-radius: 8px;
+  background-color: rgb(251, 247, 247);
+}
+#ul {
+  list-style-type: none;
+}
+#list-img-size-2 {
+  height: 275px;
+  width: 430px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  padding: 0;
+}
+#li {
+  font-size: 13px;
+}
+#ul {
+  margin-left: 5px;
+  line-height: 1px;
+  margin-top: 15px;
+}
+#span {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  padding: 0px 10px 5px 33px;
+  margin-bottom: 50px;
+}
+#title-2 h1 {
+  color: black;
+  font-size: 26px;
+  font-weight: bold;
+  font-family: "Ubuntu", sans-serif;
+  padding: 25px 30px 5px 33px;
+  align-items: center;
+}
